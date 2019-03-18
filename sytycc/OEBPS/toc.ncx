@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="http://www.booknetcanada.ca"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Mechanical Properties of Wood&#13;
+Including a Discussion of the Factors Affecting the Mechanical Properties, and Methods of Timber Testing</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>THE MECHANICAL PROPERTIES OF WOOD</text>
+      </navLabel>
+      <content src="h-0.xhtml#pgepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>THE MECHANICAL PROPERTIES OF WOOD</text>
+      </navLabel>
+      <content src="h-0.xhtml#pgepubid00001"/>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>Including a Discussion of the Factors Affecting the Mechanical Properties, and Methods of Timber Testing</text>
+        </navLabel>
+        <content src="h-0.xhtml#pgepubid00002"/>
+        <navPoint id="np-4" playOrder="4">
+          <navLabel>
+            <text>BY</text>
+          </navLabel>
+          <content src="h-0.xhtml#pgepubid00003"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>SAMUEL J. RECORD, M.A., M.F.</text>
+        </navLabel>
+        <content src="h-0.xhtml#pgepubid00004"/>
+        <navPoint id="np-6" playOrder="6">
+          <navLabel>
+            <text>ASSISTANT PROFESSOR OF FOREST PRODUCTS, YALE UNIVERSITY</text>
+          </navLabel>
+          <content src="h-0.xhtml#pgepubid00005"/>
+        </navPoint>
+        <navPoint id="np-7" playOrder="7">
+          <navLabel>
+            <text>FIRST EDITION FIRST THOUSAND 1914</text>
+          </navLabel>
+          <content src="h-0.xhtml#pgepubid00006"/>
+        </navPoint>
+        <navPoint id="np-8" playOrder="8">
+          <navLabel>
+            <text>Identification of the Economic Woods of the United States. 8vo, vi + 117 pages, 15 figures. Cloth, $1.25 net.</text>
+          </navLabel>
+          <content src="h-0.xhtml#pgepubid00007"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>TO THE STAFF OF THE FOREST PRODUCTS LABORATORY, AT MADISON, WISCONSIN IN APPRECIATION OF THE MANY OPPORTUNITIES AFFORDED AND COURTESIES EXTENDED THE AUTHOR</text>
+        </navLabel>
+        <content src="h-0.xhtml#pgepubid00008"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>PREFACE</text>
+      </navLabel>
+      <content src="h-0.xhtml#pgepubid00009"/>
+    </navPoint>
+    <navPoint id="np-11" playOrder="11">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="h-0.xhtml#pgepubid00010"/>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>PART I THE MECHANICAL PROPERTIES OF WOOD</text>
+      </navLabel>
+      <content src="h-0.xhtml#pgepubid00011"/>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>INTRODUCTION</text>
+        </navLabel>
+        <content src="h-0.xhtml#pgepubid00012"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>FUNDAMENTAL CONSIDERATIONS AND DEFINITIONS</text>
+        </navLabel>
+        <content src="h-0.xhtml#pgepubid00013"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>TENSILE STRENGTH</text>
+        </navLabel>
+        <content src="h-1.xhtml#pgepubid00014"/>
+      </navPoint>
+      <navPoint id="np-16" playOrder="16">
+        <navLabel>
+          <text>COMPRESSIVE OR CRUSHING STRENGTH</text>
+        </navLabel>
+        <content src="h-1.xhtml#pgepubid00015"/>
+      </navPoint>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>SHEARING STRENGTH</text>
+        </navLabel>
+        <content src="h-1.xhtml#pgepubid00016"/>
+      </navPoint>
+      <navPoint id="np-18" playOrder="18">
+        <navLabel>
+          <text>TRANSVERSE OR BENDING STRENGTH: BEAMS</text>
+        </navLabel>
+        <content src="h-1.xhtml#pgepubid00017"/>
+        <navPoint id="np-19" playOrder="19">
+          <navLabel>
+            <text>Beams</text>
+          </navLabel>
+          <content src="h-1.xhtml#pgepubid00018"/>
+        </navPoint>
+        <navPoint id="np-20" playOrder="20">
+          <navLabel>
+            <text>Stiffness of Beams</text>
+          </navLabel>
+          <content src="h-1.xhtml#pgepubid00019"/>
+        </navPoint>
+        <navPoint id="np-21" playOrder="21">
+          <navLabel>
+            <text>Strength of Beams</text>
+          </navLabel>
+          <content src="h-2.xhtml#pgepubid00020"/>
+        </navPoint>
+        <navPoint id="np-22" playOrder="22">
+          <navLabel>
+            <text>Kinds of Loads</text>
+          </navLabel>
+          <content src="h-2.xhtml#pgepubid00021"/>
+        </navPoint>
+        <navPoint id="np-23" playOrder="23">
+          <navLabel>
+            <text>Application of Loads</text>
+          </navLabel>
+          <content src="h-2.xhtml#pgepubid00022"/>
+        </navPoint>
+        <navPoint id="np-24" playOrder="24">
+          <navLabel>
+            <text>Failures in Timber Beams</text>
+          </navLabel>
+          <content src="h-2.xhtml#pgepubid00023"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-25" playOrder="25">
+        <navLabel>
+          <text>TOUGHNESS: TORSION</text>
+        </navLabel>
+        <content src="h-2.xhtml#pgepubid00024"/>
+      </navPoint>
+      <navPoint id="np-26" playOrder="26">
+        <navLabel>
+          <text>HARDNESS</text>
+        </navLabel>
+        <content src="h-2.xhtml#pgepubid00025"/>
+      </navPoint>
+      <navPoint id="np-27" playOrder="27">
+        <navLabel>
+          <text>CLEAVABILITY</text>
+        </navLabel>
+        <content src="h-2.xhtml#pgepubid00026"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-28" playOrder="28">
+      <navLabel>
+        <text>PART II FACTORS AFFECTING THE MECHANICAL PROPERTIES OF WOOD</text>
+      </navLabel>
+      <content src="h-3.xhtml#pgepubid00027"/>
+      <navPoint id="np-29" playOrder="29">
+        <navLabel>
+          <text>INTRODUCTION</text>
+        </navLabel>
+        <content src="h-3.xhtml#pgepubid00028"/>
+      </navPoint>
+      <navPoint id="np-30" playOrder="30">
+        <navLabel>
+          <text>RATE OF GROWTH</text>
+        </navLabel>
+        <content src="h-3.xhtml#pgepubid00029"/>
+      </navPoint>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>HEARTWOOD AND SAPWOOD</text>
+        </navLabel>
+        <content src="h-3.xhtml#pgepubid00030"/>
+      </navPoint>
+      <navPoint id="np-32" playOrder="32">
+        <navLabel>
+          <text>WEIGHT, DENSITY, AND SPECIFIC GRAVITY</text>
+        </navLabel>
+        <content src="h-3.xhtml#pgepubid00031"/>
+      </navPoint>
+      <navPoint id="np-33" playOrder="33">
+        <navLabel>
+          <text>COLOR</text>
+        </navLabel>
+        <content src="h-3.xhtml#pgepubid00032"/>
+      </navPoint>
+      <navPoint id="np-34" playOrder="34">
+        <navLabel>
+          <text>CROSS GRAIN</text>
+        </navLabel>
+        <content src="h-3.xhtml#pgepubid00033"/>
+      </navPoint>
+      <navPoint id="np-35" playOrder="35">
+        <navLabel>
+          <text>KNOTS</text>
+        </navLabel>
+        <content src="h-3.xhtml#pgepubid00034"/>
+      </navPoint>
+      <navPoint id="np-36" playOrder="36">
+        <navLabel>
+          <text>FROST SPLITS</text>
+        </navLabel>
+        <content src="h-3.xhtml#pgepubid00035"/>
+      </navPoint>
+      <navPoint id="np-37" playOrder="37">
+        <navLabel>
+          <text>SHAKES, GALLS, PITCH POCKETS</text>
+        </navLabel>
+        <content src="h-3.xhtml#pgepubid00036"/>
+      </navPoint>
+      <navPoint id="np-38" playOrder="38">
+        <navLabel>
+          <text>INSECT INJURIES37</text>
+        </navLabel>
+        <content src="h-3.xhtml#pgepubid00037"/>
+      </navPoint>
+      <navPoint id="np-39" playOrder="39">
+        <navLabel>
+          <text>MARINE WOOD-BORER INJURIES</text>
+        </navLabel>
+        <content src="h-3.xhtml#pgepubid00038"/>
+      </navPoint>
+      <navPoint id="np-40" playOrder="40">
+        <navLabel>
+          <text>FUNGOUS INJURIES39</text>
+        </navLabel>
+        <content src="h-3.xhtml#pgepubid00039"/>
+      </navPoint>
+      <navPoint id="np-41" playOrder="41">
+        <navLabel>
+          <text>PARASITIC PLANT INJURIES.46</text>
+        </navLabel>
+        <content src="h-4.xhtml#pgepubid00040"/>
+      </navPoint>
+      <navPoint id="np-42" playOrder="42">
+        <navLabel>
+          <text>LOCALITY OF GROWTH</text>
+        </navLabel>
+        <content src="h-4.xhtml#pgepubid00041"/>
+      </navPoint>
+      <navPoint id="np-43" playOrder="43">
+        <navLabel>
+          <text>SEASON OF CUTTING</text>
+        </navLabel>
+        <content src="h-4.xhtml#pgepubid00042"/>
+      </navPoint>
+      <navPoint id="np-44" playOrder="44">
+        <navLabel>
+          <text>WATER CONTENT48</text>
+        </navLabel>
+        <content src="h-4.xhtml#pgepubid00043"/>
+      </navPoint>
+      <navPoint id="np-45" playOrder="45">
+        <navLabel>
+          <text>TEMPERATURE</text>
+        </navLabel>
+        <content src="h-4.xhtml#pgepubid00044"/>
+      </navPoint>
+      <navPoint id="np-46" playOrder="46">
+        <navLabel>
+          <text>PRESERVATIVES</text>
+        </navLabel>
+        <content src="h-4.xhtml#pgepubid00045"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-47" playOrder="47">
+      <navLabel>
+        <text>PART III TIMBER TESTING56</text>
+      </navLabel>
+      <content src="h-4.xhtml#pgepubid00046"/>
+      <navPoint id="np-48" playOrder="48">
+        <navLabel>
+          <text>WORKING PLAN</text>
+        </navLabel>
+        <content src="h-4.xhtml#pgepubid00047"/>
+      </navPoint>
+      <navPoint id="np-49" playOrder="49">
+        <navLabel>
+          <text>FORMS OF MATERIAL TESTED</text>
+        </navLabel>
+        <content src="h-4.xhtml#pgepubid00048"/>
+      </navPoint>
+      <navPoint id="np-50" playOrder="50">
+        <navLabel>
+          <text>SIZE OF TEST SPECIMENS</text>
+        </navLabel>
+        <content src="h-4.xhtml#pgepubid00049"/>
+      </navPoint>
+      <navPoint id="np-51" playOrder="51">
+        <navLabel>
+          <text>MOISTURE DETERMINATION</text>
+        </navLabel>
+        <content src="h-4.xhtml#pgepubid00050"/>
+      </navPoint>
+      <navPoint id="np-52" playOrder="52">
+        <navLabel>
+          <text>MACHINE FOR STATIC TESTS</text>
+        </navLabel>
+        <content src="h-4.xhtml#pgepubid00051"/>
+      </navPoint>
+      <navPoint id="np-53" playOrder="53">
+        <navLabel>
+          <text>SPEED OF TESTING MACHINE</text>
+        </navLabel>
+        <content src="h-4.xhtml#pgepubid00052"/>
+      </navPoint>
+      <navPoint id="np-54" playOrder="54">
+        <navLabel>
+          <text>BENDING LARGE BEAMS</text>
+        </navLabel>
+        <content src="h-5.xhtml#pgepubid00053"/>
+      </navPoint>
+      <navPoint id="np-55" playOrder="55">
+        <navLabel>
+          <text>BENDING SMALL BEAMS</text>
+        </navLabel>
+        <content src="h-5.xhtml#pgepubid00054"/>
+      </navPoint>
+      <navPoint id="np-56" playOrder="56">
+        <navLabel>
+          <text>ENDWISE COMPRESSION</text>
+        </navLabel>
+        <content src="h-5.xhtml#pgepubid00055"/>
+      </navPoint>
+      <navPoint id="np-57" playOrder="57">
+        <navLabel>
+          <text>COMPRESSION ACROSS THE GRAIN</text>
+        </navLabel>
+        <content src="h-5.xhtml#pgepubid00056"/>
+      </navPoint>
+      <navPoint id="np-58" playOrder="58">
+        <navLabel>
+          <text>SHEAR ALONG THE GRAIN</text>
+        </navLabel>
+        <content src="h-5.xhtml#pgepubid00057"/>
+      </navPoint>
+      <navPoint id="np-59" playOrder="59">
+        <navLabel>
+          <text>IMPACT TEST</text>
+        </navLabel>
+        <content src="h-5.xhtml#pgepubid00058"/>
+      </navPoint>
+    </navPoint>  
+  </navMap>
+</ncx>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.booknetcanada.ca</dc:identifier>
+    <dc:creator opf:file-as="Record, Samuel J. (Samuel James)">Samuel J. Record</dc:creator>
+    <dc:title>The Mechanical Properties of Wood / Including a Discussion of the Factors Affecting the Mechanical Properties, and Methods of Timber Testing</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Wood</dc:subject>
+    <dc:subject>Wood -- Testing</dc:subject>
+    <dc:date opf:event="publication">2004-05-01</dc:date>
+    <dc:date opf:event="conversion">2018-10-06T07:35:51.653908+00:00</dc:date>
+    <dc:source>http://www.gutenberg.org/files/12299/12299-h/12299-h.htm</dc:source>
+  </metadata>
+  <manifest>
+    
+    <item href="fig00.jpg" id="fig00" media-type="image/jpeg"/>
+ 
+    <item href="fig01.jpg" id="fig01" media-type="image/jpeg"/>
+ 
+    <item href="fig02.jpg" id="fig02" media-type="image/jpeg"/>
+
+    <item href="fig03.jpg" id="fig03" media-type="image/jpeg"/>
+   
+    <item href="fig04.jpg" id="fig04" media-type="image/jpeg"/>
+    <!--Image: 255 x 390 size=32272 -->
+    <item href="fig05.jpg" id="fig05" media-type="image/jpeg"/>
+    <!--Image: 99 x 396 size=4114 -->
+    <item href="fig06.jpg" id="fig06" media-type="image/jpeg"/>
+    <!--Image: 198 x 396 size=18826 -->
+    <item href="fig07.jpg" id="fig07" media-type="image/jpeg"/>
+    <!--Image: 600 x 282 size=64815 -->
+    <item href="fig08.jpg" id="fig08" media-type="image/jpeg"/>
+    <!--Image: 600 x 282 size=75456 -->
+    <item href="fig09.jpg" id="fig09" media-type="image/jpeg"/>
+    <!--Image: 453 x 396 size=15361 -->
+    <item href="fig10.jpg" id="fig10" media-type="image/jpeg"/>
+    <!--Image: 432 x 398 size=80432 -->
+    <item href="fig11.jpg" id="fig11" media-type="image/jpeg"/>
+    <!--Image: 594 x 100 size=9946 -->
+    <item href="fig12.jpg" id="fig12" media-type="image/jpeg"/>
+    <!--Image: 117 x 396 size=5254 -->
+    <item href="fig13.jpg" id="fig13" media-type="image/jpeg"/>
+    <!--Image: 263 x 398 size=46507 -->
+    <item href="fig14.jpg" id="fig14" media-type="image/jpeg"/>
+    <!--Image: 591 x 198 size=16958 -->
+    <item href="fig15.jpg" id="fig15" media-type="image/jpeg"/>
+    <!--Image: 450 x 399 size=18197 -->
+    <item href="fig16.jpg" id="fig16" media-type="image/jpeg"/>
+    <!--Image: 405 x 391 size=18848 -->
+    <item href="fig17.jpg" id="fig17" media-type="image/jpeg"/>
+    <!--Image: 578 x 392 size=87184 -->
+    <item href="fig18.jpg" id="fig18" media-type="image/jpeg"/>
+    <!--Image: 596 x 226 size=16325 -->
+    <item href="fig19.jpg" id="fig19" media-type="image/jpeg"/>
+    <!--Image: 507 x 398 size=76055 -->
+    <item href="fig20.jpg" id="fig20" media-type="image/jpeg"/>
+    <!--Image: 238 x 398 size=28425 -->
+    <item href="fig21.jpg" id="fig21" media-type="image/jpeg"/>
+    <!--Image: 382 x 394 size=77420 -->
+    <item href="fig22.jpg" id="fig22" media-type="image/jpeg"/>
+    <!--Image: 314 x 391 size=64702 -->
+    <item href="fig23.jpg" id="fig23" media-type="image/jpeg"/>
+    <!--Image: 597 x 809 size=88770 -->
+    <item href="fig24.jpg" id="fig24" media-type="image/jpeg"/>
+    <!--Image: 333 x 399 size=47138 -->
+    <item href="fig25.jpg" id="fig25" media-type="image/jpeg"/>
+    <!--Image: 599 x 149 size=37850 -->
+    <item href="fig26.jpg" id="fig26" media-type="image/jpeg"/>
+    <!--Image: 399 x 397 size=66681 -->
+    <item href="fig27.jpg" id="fig27" media-type="image/jpeg"/>
+    <!--Image: 588 x 338 size=82843 -->
+    <item href="fig28.jpg" id="fig28" media-type="image/jpeg"/>
+    <!--Image: 551 x 400 size=85907 -->
+    <item href="fig29.jpg" id="fig29" media-type="image/jpeg"/>
+    <!--Image: 553 x 400 size=17569 -->
+    <item href="fig30.jpg" id="fig30" media-type="image/jpeg"/>
+    <!--Image: 542 x 395 size=57249 -->
+    <item href="fig31.jpg" id="fig31" media-type="image/jpeg"/>
+    <!--Image: 598 x 759 size=111425 q=50-->
+    <item href="fig32.jpg" id="fig32" media-type="image/jpeg"/>
+    <!--Image: 542 x 398 size=81661 -->
+    <item href="fig33.jpg" id="fig33" media-type="image/jpeg"/>
+    <!--Image: 597 x 775 size=118195 q=50-->
+    <item href="fig34.jpg" id="fig34" media-type="image/jpeg"/>
+    <!--Image: 600 x 383 size=83598 -->
+    <item href="fig35.jpg" id="fig35" media-type="image/jpeg"/>
+     <!--Image: 600 x 383 size=83598 -->
+    <item href="ask.png" id="asterisk" media-type="image/png"/>
+    <!--Image: 181 x 400 size=16081 -->
+        <item href="graphicbreak.jpg" id="flourish" media-type="image/jpg"/>
+    <!--Image: 181 x 400 size=16081 -->
+    <item href="fig36.jpg" id="fig36" media-type="image/jpeg"/>
+    <!--Image: 376 x 394 size=45474 -->
+    <item href="fig37.jpg" id="fig37" media-type="image/jpeg"/>
+    <!--Image: 598 x 293 size=22318 -->
+    <item href="fig38.jpg" id="fig38" media-type="image/jpeg"/>
+    <!--Image: 529 x 393 size=81086 -->
+    <item href="fig39.jpg" id="fig39" media-type="image/jpeg"/>
+    <!--Image: 242 x 391 size=24369 -->
+    <item href="fig40.jpg" id="fig40" media-type="image/jpeg"/>
+    <!--Image: 428 x 390 size=21943 -->
+    <item href="fig41.jpg" id="fig41" media-type="image/jpeg"/>
+    
+    <item href="pgepub.css" id="item1" media-type="text/css"/>
+    <item href="0.css" id="item2" media-type="text/css"/>
+    <item href="1.css" id="item3" media-type="text/css"/>
+    
+    <item href="h-0.xhtml" id="item4" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=53279 Split on div-->
+    <item href="h-1.xhtml" id="item5" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=53853 Split on div-->
+    <item href="h-2.xhtml" id="item6" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=79518 Split on h3-->
+    <item href="h-3.xhtml" id="item7" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=55526 Split on div-->
+    <item href="h-4.xhtml" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=53749 Split on div-->
+    <item href="h-5.xhtml" id="item9" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=56283 Split on div-->
+    <!-- REMOVED BECAUSE THESE FILES WERE NOT HERE
+	    <item href="h-6.xhtml" id="item10" media-type="application/xhtml+xml"/>
+  	  <item href="h-7.xhtml" id="item11" media-type="application/xhtml+xml"/>
+    	<item href="h-8.xhtml" id="item12" media-type="application/xhtml+xml"/>
+    	<item href="h-9.xhtml" id="item13" media-type="application/xhtml+xml"/>
+    	<item href="h-10.xhtml" id="item14" media-type="application/xhtml+xml"/>
+    	<item href="h-11.xhtml" id="item15" media-type="application/xhtml+xml"/>
+    -->
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref linear="yes" idref="item4"/>
+    <itemref linear="yes" idref="item5"/>
+    <itemref linear="yes" idref="item6"/>
+    <itemref linear="yes" idref="item7"/>
+    <itemref linear="yes" idref="item8"/>
+    <itemref linear="yes" idref="item9"/>
+		<!-- REMOVED BECASUE THEY WERE NOT IN THE DOCUMENT
+	    <itemref linear="yes" idref="item10"/>
+  	  <itemref linear="yes" idref="item11"/>
+    	<itemref linear="yes" idref="item12"/>
+    	<itemref linear="yes" idref="item13"/>
+    	<itemref linear="yes" idref="item14"/>
+    	<itemref linear="yes" idref="item15"/>
+    	-->
+  </spine>
+  <guide>
+    <reference href="h-0.xhtml#pgepubid00010" title="CONTENTS" type="toc"/>
+  </guide>
+</package>
