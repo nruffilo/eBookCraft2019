@@ -32,7 +32,7 @@ foreach ($toc->navMap->navPoint as $point) {
 		$ol = $li->addChild("ol");
 		foreach ($point->navPoint as $sub_point) {
 			$li2 = $ol->addChild("li");
-			$a2 = $li->addChild("a");
+			$a2 = $li2->addChild("a");
 			$a2["href"] = $sub_point->content['src'];
 			$a2[0] = $sub_point->navLabel->text;
 			//echo "SUB - " . $sub_point->content['src'] . "\n";
